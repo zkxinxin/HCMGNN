@@ -12,7 +12,7 @@ The repository is organized as follows:
 - `main.py` main program of the repository;
 # 2. Requirements
 - python == 3.8.13
-- ptorch == 1.9.0
+- pytorch == 1.9.0
 - numpy == 1.21.0
 - dgl == 0.6.0post1
 - dglke == 0.1.2
